@@ -1,13 +1,13 @@
 # 🚜 Plant Disease Recognition System: A Deep Learning Revolution in Agriculture 🌱
 
 ## 📘 Table of Contents
-- [Project Overview](#project-overview)
-- [Technical Architecture](#technical-architecture)
-- [Data Preparation](#data-preparation)
-- [Machine Learning Model](#machine-learning-model)
-- [Performance Metrics](#performance-metrics)
-- [Deployment Strategy](#deployment-strategy)
-- [Future Roadmap](#future-roadmap)
+- [Project Overview]
+- [Technical Architecture]
+- [Data Preparation]
+- [Machine Learning Model]
+- [Performance Metrics]
+- [Deployment Strategy]
+- [Future Roadmap]
 
 ## 🌍 Project Overview
 
